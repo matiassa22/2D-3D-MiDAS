@@ -32,7 +32,7 @@
         
 ## Further improvements:
    *  TODO: Rewrite pipeline for multithreading and enhanced inference on GPUs. 
-   * 
+   *   
 
 
 ## Optional: 
