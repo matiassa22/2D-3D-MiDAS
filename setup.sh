@@ -13,3 +13,5 @@ python stereo_generation_image.py
 echo 'Combining the output frames together into video'
 ffmpeg -framerate 1 -i stereo/MiDaS_3d_output%4d.png output.mp4
 
+
+
